@@ -1,0 +1,15 @@
+--2019-10-26 12:40:05--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.zuuonline.com%2F600%2F400%2Fuploads%2F93d5264ee787d0058959d1fdd6a5a0d5.jpg
+www.google.com (www.google.com) をDNSに問いあわせています... 172.217.161.68
+www.google.com (www.google.com)|172.217.161.68|:443 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 301 Moved Permanently
+場所: https://www.google.com/imghp [続く]
+--2019-10-26 12:40:06--  https://www.google.com/imghp
+www.google.com:443 への接続を再利用します。
+HTTP による接続要求を送信しました、応答を待っています... 200 OK
+長さ: 特定できません [text/html]
+`imgres?imgurl=https:%2F%2Fcdn.zuuonline.com%2F600%2F400%2Fuploads%2F93d5264ee787d0058959d1fdd6a5a0d5.jpg' に保存中
+
+           imgres?imgu     [<=>                       ]       0  --.-KB/s               imgres?imgurl=https:%2     [ <=>                      ]  12.12K  --.-KB/s 時間 0.001s   
+
+2019-10-26 12:40:06 (16.5 MB/s) - `imgres?imgurl=https:%2F%2Fcdn.zuuonline.com%2F600%2F400%2Fuploads%2F93d5264ee787d0058959d1fdd6a5a0d5.jpg' へ保存終了 [12408]
+
